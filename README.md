@@ -5,6 +5,7 @@
  api url:   
  `http://mis.twse.com.tw/stock/api/getStockInfo.jsp?ex_ch=tse_2330.tw|otc_3293.tw&json=1&delay=0&_=1435210928008`  
 > note: please hit official website (http://mis.twse.com.tw/stock/index.jsp) first to avoid the api response fail.
+> maximum 99 stock number for one request
 
  reference:
  1. https://github.com/Asoul/tsrtc
